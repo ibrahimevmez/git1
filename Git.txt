@@ -1,2 +1,3 @@
 GitDeneme
 gitdeneme2
+git add nxmfsd
